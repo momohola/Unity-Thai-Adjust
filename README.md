@@ -98,4 +98,5 @@ Pมถ@ฆ้0s≤ ‘cнéษSน
 
 最后感谢这两位博主：
 https://github.com/Nolkeg/AdjustTHWannayuk
+
 https://github.com/SaladLab/Unity3D.ThaiFontAdjuster
