@@ -91,7 +91,11 @@ Pมถ@ฆ้0s≤ ‘cнéษSน
 解决这个问题也简单，使用AdjustWannayuk工具设置一下音标表的偏移值就行。
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/365516f8ebc248869656f223c722b213.png#pic_center)
 
+
 右键SDF的字体文件选择AdjustWannayuk命令，然后就设置好了。这个时候就正常了，而且不需要调用ThaiFontUtility.Adjust接口，音标的位置也是正确的。
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/bb595f8d454c4cd09e361697376a6171.png#pic_center)
 
+最后感谢这两位博主：
+https://github.com/Nolkeg/AdjustTHWannayuk
+https://github.com/SaladLab/Unity3D.ThaiFontAdjuster
