@@ -59,11 +59,11 @@ ThaiFontAdjuster 只能处理特殊字体。这种字体需要具备从 U+F700 �
  
  ## 2、TextMeshPro组件显示泰语
 第一步需要创建一套泰语的SDF字体，这里使用AlibabaSansThaiMedium.ttf字体（任意字体均可，无硬性要求），右键该字体 ->Create->TextMeshPro->FontAsset。
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f5b8ff6290c04e10bafc9ad933d05f62.png#pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/f5b8ff6290c04e10bafc9ad933d05f62.png)
 然后选中改字体点击【Update Atlas Texture】
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/004c64af47174d9da7b2e3bc1aa55f47.png#pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/004c64af47174d9da7b2e3bc1aa55f47.png)
 按照下面的示意图进行设置
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ebc0c8ac39154e03837b66e5e7b62b41.png#pic_center)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/ebc0c8ac39154e03837b66e5e7b62b41.png)
 其中蓝色方框内的内容填入下面这个：
 
 ```c
